@@ -1,3 +1,5 @@
+<link href="style. css" rel="stylesheet"></link>
+
 <div align="center">
   <img height="200" src="pic.jpg"  />
 </div>
