@@ -31,7 +31,3 @@
 </div>
 
 ###
-
-<h3 align="left">You can contact me at following sites</h3>
-
-###
